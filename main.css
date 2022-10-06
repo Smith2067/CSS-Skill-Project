@@ -131,8 +131,7 @@ footer:hover{
     margin-bottom: 0px;
 }
 
-
-@media only screen and (max-width: 1520px) {
+@media only screen and (max-width: 1420px) {
 
     .parent{
         display: flex;
@@ -194,6 +193,7 @@ footer:hover{
 
     footer{
         margin-top: -30px;
+        margin-bottom: 30px;
     }
 }
 
